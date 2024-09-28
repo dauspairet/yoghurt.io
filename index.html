@@ -5,6 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Lato" rel="stylesheet">
+
 </head>
 <body>
     <div class="container">
@@ -41,7 +43,7 @@
                 newProduct.innerHTML = 
                 `<img src="${product.image}" alt="">
                 <h2>${product.name}</h2>
-                <div class="price">$${product.price}</div>`;
+                <div class="price">Rp${product.price}</div>`;
                 listProductHTML.appendChild(newProduct);
 
             });
