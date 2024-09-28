@@ -10,21 +10,21 @@
         "id": 2,
         "name":" Botol 500ml",
         "price": "12,000",
-        "image": "img/2.png",
+        "image": "img/Botol/",
         "description": "text deskripsi"
     },
     {
         "id": 3,
         "name":" Botol 330ml",
         "price": "8,000",
-        "image": "img/3.png",
+        "image": "img/Botol/",
         "description": "text deskripsi"
     },
     {
         "id": 4,
         "name":" Botol 250ml",
         "price": "7,000",
-        "image": "img/4.png",
+        "image": "img/Botol/250ml/Botol250ml_1.jpg",
         "description": "text deskripsi"
     },
     {
@@ -38,42 +38,42 @@
         "id": 6,
         "name":" Cup 250ml",
         "price": "6,000",
-        "image": "img/6.png",
+        "image": "img/Cup/250ml/Cup250ml.jpg",
         "description": "text deskripsi"
     },
     {
         "id": 7,
         "name":" Cup 140ml",
         "price": "3,500",
-        "image": "img/7.png",
+        "image": "img/Cup/140ml/Cup140ml.jpg",
         "description": "text deskripsi"
     },
     {
         "id": 8,
         "name":" Cup 100ml",
         "price": "2,500",
-        "image": "img/8.png",
+        "image": "img/Cup/100ml/Cup100ml.jpg",
         "description": "text deskripsi"
     },
     {
         "id": 9,
         "name":" Es Lilin",
         "price": "14,000",
-        "image": "img/9.png",
+        "image": "img/Es_Lilin.jpg",
         "description": "text deskripsi"
     },
     {
         "id": 10,
         "name":" Curah 1 Liter",
         "price": "21,000",
-        "image": "img/10.png",
+        "image": "img/Curah.jpg",
         "description": "text deskripsi"
     },
     {
         "id": 11,
         "name":" Curah 500 Liter",
         "price": "11,000",
-        "image": "img/11.png",
+        "image": "img/Curah.jpg",
         "description": "text deskripsi"
     }
 

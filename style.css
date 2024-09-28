@@ -51,6 +51,25 @@ a{
     gap: 50px;
     text-align: left;
 }
+
+.back-button {
+    background-color: #2F2F2F;   /* Dark background */
+    color: #eee;                 /* Light text */
+    border: none;
+    padding: 5% 5%;          /* Padding around the button */
+    border-radius: 20px;         /* Rounded corners */
+    font-family: 'Poppins', sans-serif;
+    font-size: medium;
+    cursor: pointer;
+    margin-bottom: 20px;         /* Adds space below the button */
+    box-shadow: 0 4px 10px #2F2F2F77;
+    display: inline-block;       /* Aligns button with surrounding content */
+}
+
+.back-button:hover {
+    background-color: #555454;  /* Hover effect */
+}
+
 .detail .image img{
     width: 100%;
     border-radius: 5%;

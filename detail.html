@@ -11,6 +11,9 @@
         <div class="title">PRODUCT DETAIL</div>
         <div class="detail">
             <div class="image">
+                <div class="goback">
+                    <button onclick="history.back()">Go Back</button>
+                </div>
                 <img src="">
             </div>
             <div class="content">
@@ -54,7 +57,7 @@
         let thisProduct = products.filter(value => value.id == productId)[0];
         //if there is no product with id = productId => return to home page
         if(!thisProduct){
-            window.location.href = "/";
+            window.location.href = "index.html";
         }
 
         detail.querySelector('.image img').src = thisProduct.image;
